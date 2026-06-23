@@ -143,7 +143,7 @@ These metrics provide insights into the model's ability to correctly classify lo
 
 ```text
 .
-├── task2.ipynb
+├── DevelopersHub-DataScience-Intership-Phase01-Task02.ipynb
 ├── dataset.csv
 ├── README.md
 ```
